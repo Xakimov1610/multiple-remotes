@@ -1,0 +1,9 @@
+Host github.com
+    Hostname github.com
+    User git
+    IdentityFile ~/multiple-remotes/github
+
+Host gitlab.com
+    Hostname gitlab.com
+    User git
+    IdentityFile ~/multiple-remotes/gitlab
